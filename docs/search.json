@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Skripsi",
+    "section": "",
+    "text": "Preface\nThis is personal report of my final report. It contains the background, literature reviews, method, result, and discussion of my research. I hope this bookdown inspires the readers to capture its research meaning and do the same way to build and publish a website or bookdown to let anyone know what we are writing."
+  },
+  {
+    "objectID": "bab1.html",
+    "href": "bab1.html",
+    "title": "BAB I",
+    "section": "",
+    "text": "ya ini isinya bab 1 ya kak"
+  },
+  {
+    "objectID": "bab2.html",
+    "href": "bab2.html",
+    "title": "BAB II",
+    "section": "",
+    "text": "isi bab 2 disini. kamu nanya isinya apa aja? ya teori, penelitian yg relevan, research gap nya tidak boleh lupa, argumennya teh naon ditulis, kerangka berpikir (bikin map nya juga), hipotesis juga kalo pake kuanti."
+  },
+  {
+    "objectID": "bab3.html",
+    "href": "bab3.html",
+    "title": "BAB III",
+    "section": "",
+    "text": "iya betul, ini diisi metode yg mau dipakai. disertai teknik analisis data, data yg dipakai, ya disesuaikan sama panduannya aja lah."
+  },
+  {
+    "objectID": "bab4.html",
+    "href": "bab4.html",
+    "title": "BAB IV",
+    "section": "",
+    "text": "sudah analisis datanya? ya, kasih lah hasilnya disini, kodenya sekalian gapapa, nanti tinggal di code flow atau echo aja. dijelasin sekalian hasil analisis datanya teh kumaha, damang? sesuai hipotesis tidak? tidak? ya kumaha atuh :<"
+  },
+  {
+    "objectID": "bab5.html",
+    "href": "bab5.html",
+    "title": "BAB V",
+    "section": "",
+    "text": "ini apa? betul, tempat diskusi hasil penelitian. tulis aja hasilnya gimana dan argumen/perbedaan pendapat dari penelitian lain (kalo ada)."
+  }
+]

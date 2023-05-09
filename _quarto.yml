@@ -1,0 +1,42 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Skripsi"
+  author: "Tawang"
+  favicon: img/kenma.png
+  description: Final project report 2023
+  keyword: thesis, report, dataframe, r, data management
+  repo-url: https://github.com/tawanggg/fpreport.git
+  
+  
+  sidebar: 
+    background: "#ffe4d8"
+    logo: img/kenma.png
+    pinned: true
+    search: true
+    alignment: center
+    style: docked
+    collapse-level: 1
+    
+  chapters:
+    - index.qmd
+    - bab1.qmd
+    - bab2.qmd
+    - bab3.qmd
+    - bab4.qmd
+    - bab5.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      light: [cosmo, style.scss]
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

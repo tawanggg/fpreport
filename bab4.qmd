@@ -1,0 +1,4 @@
+# BAB IV {.unnumbered}
+
+sudah analisis datanya? ya, kasih lah hasilnya disini, kodenya sekalian gapapa, nanti tinggal di code flow atau echo aja. 
+dijelasin sekalian hasil analisis datanya teh kumaha, damang? sesuai hipotesis tidak? tidak? ya kumaha atuh :<
