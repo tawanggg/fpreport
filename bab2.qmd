@@ -1,4 +1,12 @@
 # BAB II {.unnumbered}
 
-isi bab 2 disini. kamu nanya isinya apa aja? 
-ya teori, penelitian yg relevan, research gap nya tidak boleh lupa, argumennya teh naon ditulis, kerangka berpikir (bikin map nya juga), hipotesis juga kalo pake kuanti.
+## A. Growth Mindset dan Wellbeing
+
+**1. Growrh Mindset**
+Pola pikir (mindset) adalah keyakinan awam orang tentang sifat keunikan manusia, seperti kecerdasan atau kepribadian (Bernecker & Job, 2019). Pola pikir dibedakan menjadi dua jenis, yaitu fixed mindset (entity theory) dan growth mindset (incremental theory). Growth mindset atau pola pemikiran berkembang didasarkan oleh kepercayaan akan kualitas diri paling dasar seseorang dapat ditingkatkan melalui suatu usaha (Dweck, 2017: 3). Anak yang termasuk golongan berpola pemikiran berkembang (growth mindset) percaya bahwa kecerdasan mudah dibentuk dan ditingkatkan (Dweck & Legget, 1988).
+
+Selanjutnya, fixed mindset disebut sebagai pola pemikiran tetap, yakni kepercayaan bahwa kemampuan atau kecerdasan seseorang merupakan bawaan lahir yang tidak dapat diubah (Bernecker & Job, 2019). Dweck (2017: 17) menyebutkan, anak dengan fixed mindset terjebak dalam pemikiran, seperti “orang yang cerdas tidak melakukan kesalahan”. Pemikiran tersebut membuat anak merasa takut untuk gagal— percaya bahwa kegagalan berarti akhir dari segalanya— tidak ada lagi harapan menjadi orang sukses jika mengalami kegagalan. Apabila dihadapkan dengan kegagalan, anak yang berpola pikir tetap merasa kehilangan kesempatan untuk berhasil dan cenderung enggan mencoba kembali karena kekhawatirannya menghadapi kegagalan. Sedangkan anak berpola pikir berkembang (growth mindset) meyakini suatu kegagalan merupakan proses belajar untuk menjadi lebih baik daripada sebelumnya (Dweck, 2017: 18).
+  
+**2. Wellbeing**
+Wellbeing atau kesejahteraan merupakan teori Dr. Seligman untuk membangun lima blok perkembangan (five building blocks to flourish), yaitu emosi positif (positive emotion); keterlibatan (engagement); hubungan (relationship); makna (meaning); dan pencapaian (accomplishment) yang disingkat PERMATM. Emadpoor, Lavasani, & Shahcheraghi (2015) memperkenalkan dua konsep kesejahteraan yang terdiri dari kesejahteraan subjektif dan kesejahteraan psikologis. Subjective wellbeing atau kesejahteraan subjektif menekankan pada sebuah evaluasi hidup yang positif, dan keseimbangan antara perasaan positif dan perasaan negatif (Diener et al., 1997; Emadpoor, Lavasani, & Shahcheraghi, 2015). Sedangkan psychological wellbeing diartikan sebagai alat ukur dasar hidup seperti pengembangan diri, pertumbuhan pribadi, dan keterlibatan dalam komunikasi dua arah untuk membangun hubungan antara dua individu. Kesejahteraan dinilai menjadi salah satu faktor penting dalam perkembangan pribadi seseorang mau pun dalam meningkatkan kehidupan sosialnya.
+
