@@ -1,3 +1,49 @@
 # BAB I {.unnumbered}
 
-ya ini isinya bab 1 ya kak
+## A. Latar Belakang Masalah
+Keberhasilan belajar seorang anak dapat dilihat melalui prestasi yang diraih. Prestasi belajar diartikan sebagai suatu kesuksesan seseorang setelah menjalani proses belajar. Serangkaian tes dilakukan untuk menilai kemampuan seseorang terhadap hal yang sudah dipelajari. Cizek (1996) mendefinisikan prestasi belajar (learning achievement) merupakan perolehan pengetahuan atau perkembangan kemampuan melalui pembelajaran di sekolah yang umumnya ditunjukkan dari nilai ujian. Penilaian ditentukan dengan kriteria masing-masing subjek pembelajaran. Kriteria Ketuntasan Minimal (KKM) menjadi dasar ketercapaian pembelajaran anak. Akumulasi nilai tersebut kemudian digunakan untuk menentukan prestasi belajar anak secara akademik.
+
+Prestasi belajar atau akademik berperan penting dalam kehidupan individu bagi dirinya sendiri mau pun dalam bermasyarakat. Bagi anak, prestasi akademik berguna untuk mengasah berbagai kemampuan akademik terutama membaca dan matematika (Peng dan Kievit, 2020). Capaian dalam pendidikan, hasil kerja, kesehatan fisik dan mental, serta usia harapan hidup yang panjang dapat dipengaruhi oleh prestasi akademik (Calvin dkk., 2017; Kuncel dan Hezlett, 2010; Peng dan Kievet, 2020; Wrulich dkk., 2014). Spinath (2012) mengemukakan prestasi akademik merupakan prasayarat paling penting untuk mendapatkan kesejahteraan di masyarakat. Pernyataan tersebut selaras dengan mayoritas kriteria penerimaan pegawai di berbagai tempat mengharuskan pendaftar memiliki latar belakang pendidikan yang baik. Bidang pekerjaan tertentu masih membutuhkan bukti bahwa calon pekerja yang diterima tersertifikasi pada jenjang pendidikan tinggi. Hal ini mendukung stigma pada masyarakat bahwa kedudukan seseorang dalam struktur masyarakat dapat ditentukan dari seberapa tinggi pendidikan yang ditempuh beserta prestasi yang diraih.
+
+Tren prestasi belajar siswa terus mendapatkan perhatian dari pemerintah berbagai negara. Peristiwa ini didukung dari data peningkatan jumlah negara yang bergabung dengan PISA (Programme for International Student Assessment) tiap periode. Terdapat 32 (tiga puluh dua) negara yang berpartisipasi pada tahun 2000, hingga pada tahun 2022 mencapai total 83 (delapan puluh tiga) negara yang bergabung. Kenaikan jumlah negara yang tergabung dalam program buatan OECD tersebut memperlihatkan antusiasme dan tingginya perhatian terhadap prestasi belajar dan mutu pendidikan. Hasil asesmen PISA selama ini berperan dalam evaluasi pembuatan sistem pendidikan yang memperhatikan prestasi belajar siswa.
+
+
+## B. Identifikasi Masalah
+1. Fokus penelitian yang dilakukan atas dasar latar belakang yang dibuat, yaitu:
+Perhatian terhadap peran growth mindset dan wellbeing pada prestasi belajar siswa Indonesia.
+2. Relevansi peran growth mindset dan wellbeing terhadap prestasi belajar siswa Indonesia.
+
+## C. Batasan Masalah
+
+Demi mendapatkan hasil penelitian yang terarah, maka berikut batasan masalah yang dipertimbangkan:
+
+1. Subjek penelitian merupakan siswa dari negara Indonesia yang berpartisipasi dalam asesmen PISA tahun 2018.
+2. Variabel yang diambil terdiri dari pertanyaan terkait growth mindset dan wellbeing sebagai variabel bebas, serta plausible value dari kemampuan matematika, membaca dan ilmu pengetahuan alam sebagai variabel terikat.
+
+## D. Rumusan Masalah
+Berdasarkan latar belakang penelitian di atas, rumusan masalah yang disimpulkan meliputi:
+
+1. Bagaimana kah hubungan growth mindset terhadap prestasi belajar siswa Indonesia?
+2. Bagaimana kah hubungan wellbeing terhadap prestasi belajar siswa Indonesia?
+
+## E. Tujuan Penelitian
+Merujuk pada pertanyaan rumusan masalah, maka tujuan penelitian yang hendak dicapai antara lain:
+
+1. Menemukan hubungan growth mindset terhadap prestasi belajar siswa Indonesia.
+2. Menemukan hubungan wellbeing terhadap prestasi belajar siswa Indonesia.
+
+## F. Manfaat Penelitian
+Penelitian ini diharapkan mempunyai dampak yang baik dalam meningkatkan kualitas pendidikan. Berikut beberapa manfaat dari penelitian ini: 
+1. Secara teoritis
+
+a. Memberikan referensi aspek-aspek pendidikan lebih luas dalam upaya meningkatkan kualitas belajar anak di Indonesia. 
+b. Menjadi salah satu dasar pengambilan keputusan di bidang pendidikan untuk memperhatikan kesehatan dan kesejahteraan siswa di Indonesia.
+c. Menyumbangkan inovasi pada penelitian selanjutnya yang berhubungan dengan peningkatan kualitas belajar siswa.
+
+
+2. Secara praktis.
+
+a. Bagi penulis: memperdalam wawasan tentang kualitas pendidikan berdasarkan pola pikir dan kesejahteraan siswa melalui data sekunder dengan metode analisis yang digunakan.
+b. Bagi pendidik dan calon pendidik: memperluas pengetahuan tentang aspek yang mempengaruhi kualitas belajar siswa sehingga mampu menciptakan metode belajar yang efisien dan efektif dalam pembelajaran.
+c. Bagi sekolah: sebagai tempat pembelajaran berlangsung, sekolah dapat menciptakan suasana lingkungan belajar yang kondusif dan suportif melalui perhatiannya terhadap aspek-aspek penting dalam mendukung proses belajar siswa.
+
